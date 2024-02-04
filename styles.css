@@ -1,0 +1,35 @@
+body {
+    max-width: 900px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+    background-image: linear-gradient(120deg, #cca9e6, #DEDEDE);
+    align-content: center;
+  
+  }
+  
+  
+  #photos {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    padding: 10px;
+    align-items: center;
+  }
+  
+  h1, h2 {
+    color: rgb(110, 10, 224);
+  }
+
+  ol > li {
+    color: rgb(0, 47, 255);
+  }
+
+  header {
+    font-size: 28px;
+  }
+
+  #listen {
+    font-size: 24px;
+    font-weight: bold;
+    color: darkmagenta;
+  }
